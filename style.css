@@ -54,10 +54,11 @@ body{
     color: rgb(0, 0, 0);
 }
 
-.div__cuatro{
+.respuesta__contraseña{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: flex;
     justify-content: center;
     font-size: 24px;
-    color: rgb(0, 255, 51);
-    padding: 30px;
+    color: rgb(0, 0, 0);
+    padding: 10px;
 }
