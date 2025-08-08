@@ -18,6 +18,15 @@ Para instalar el proyecto se necesita clonar el repositorio
   Abrir index.html
 ```
 
+En la caja de texto se ingresa el valor que quieras que tenga tu contraseña
+![imagen1](imagenes/generador.png)
+
+Despues de ingresar el valor escogido le das clic en generar
+![imagen2](imagenes/generador1.png)
+
+Y saldra la contraseña generada, con los caracters seleccionados 
+![imagen3](imagenes/generador2.png)
+
 ## Pagina del proyecto
 
 -[Pagina Generador de contraseña](https://oscarcuso.github.io/generador-de-contrasenas/)
