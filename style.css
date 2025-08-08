@@ -62,3 +62,19 @@ body{
     color: rgb(0, 0, 0);
     padding: 10px;
 }
+
+@media (max-width: 1200px){
+
+    .titulo{
+        padding: 10%;
+    }
+
+    .contenido__principal{
+        flex-direction: column;
+        padding: 5%;
+    }
+
+    .contenido__secundario{
+        width: auto;
+    }
+}
